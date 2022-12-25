@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kishore Ananth N
 - 🎓 I’m currently learning B.Tech Information Technology @ Bannari Amman Institute of Technology
 - 📫 How to reach me...
-  - Official Mail ID: kishoreananth.it20@bitsathy.ac.in
-  - Personal Mail ID: kishoreananth718@gmail.com
+  - kishoreananth.it20@bitsathy.ac.in
+  - kishoreananth718@gmail.com
   - [Github Account](https://github.com/KishoreAnanth18)
   - [LinkedIn Account](https://www.linkedin.com/in/kishoreananth18/)
   
