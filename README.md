@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Kishore Ananth N
-- 🌱 I’m currently learning B.Tech Information Technology @ Bannari Amman Institute of Technology
+- 🎓 I’m currently learning B.Tech Information Technology @ Bannari Amman Institute of Technology
 - 📫 How to reach me...
-  - Mail_id: kishoreananth.it20@bitsathy.ac.in
-  - Mail_id: kishoreananth718@gmail.com
-  - Github: https://github.com/KishoreAnanth18
-  - LinkedIn: https://www.linkedin.com/in/kishoreananth18/
+  - [Official Mail](kishoreananth.it20@bitsathy.ac.in)
+  - [Personal Mail](kishoreananth718@gmail.com)
+  - [Github Account](https://github.com/KishoreAnanth18)
+  - [LinkedIn Account](https://www.linkedin.com/in/kishoreananth18/)
   
 **About Me**
 
@@ -12,8 +12,8 @@ I'm a fresher gazing for a challenging role in a dynamic stable organisation to 
 
 **Achievements**
 
-- 2 Stars in Codechef
-- 50+ problems solved in Leetcode
+- 2 ⭐'s in [Codechef](https://www.codechef.com/users/baite_114)
+- 50+ problems solved in [Leetcode](https://leetcode.com/kishoreananth718/)
 - Truss Bridge Construction - SSN College of Engineering, Chennai - 2022 | Secured 1st place and won Rs.3500.
 - Smart India Hackathon | Qualified finalist
 - UX Design & Branding - TrusTrace - 2022 | Secured 1st place and won Rs.3000.
