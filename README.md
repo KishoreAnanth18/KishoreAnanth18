@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishore Ananth N
-- 🎓 I’m currently learning B.Tech Information Technology @ Bannari Amman Institute of Technology
+- 🎓 I’m currently pursuing B.Tech Information Technology @ Bannari Amman Institute of Technology
 - 📫 How to reach me...
   - kishoreananth.it20@bitsathy.ac.in
   - kishoreananth718@gmail.com
