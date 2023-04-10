@@ -22,7 +22,7 @@ I'm a fresher gazing for a challenging role in a dynamic stable organisation to 
 **Areas of Interest**
 
 - Machine Learning 
-- Mobile and Web Application Development
+- Web Application Development
 - UI/UX Designs
 
 **Skills**
