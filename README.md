@@ -27,10 +27,10 @@ I'm a fresher gazing for a challenging role in a dynamic stable organisation to 
 
 **Skills**
 
-- Python, C++ (Intermediate)
-- Java (Basic)
+- Python, C (Intermediate)
+- Java, C++ (Basic)
 - HTML, CSS, JavaScript
-- MySQL, PHP
+- MySQL
 - Google cloud platform, Firebase
 
 **Tools**
