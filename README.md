@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kishore Ananth N
 - 🎓 I’m currently pursuing B.Tech Information Technology(2024) @ Bannari Amman Institute of Technology
 - 📫 Reach me at...
-  - [Gmail](kishoreananth718@gmail.com)
+  - [Gmail](mailto:kishoreananth718@gmail.com)
   - [Github Account](https://github.com/KishoreAnanth18)
   - [LinkedIn Account](https://www.linkedin.com/in/kishoreananth18/)
   
