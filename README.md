@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kishore Ananth N
-- 🎓 I’m currently pursuing B.Tech Information Technology @ Bannari Amman Institute of Technology
-- 📫 How to reach me...
-  - kishoreananth.it20@bitsathy.ac.in
-  - kishoreananth718@gmail.com
+- 🎓 I’m currently pursuing B.Tech Information Technology(2024) @ Bannari Amman Institute of Technology
+- 📫 Reach me at...
+  - [Gmail](kishoreananth718@gmail.com)
   - [Github Account](https://github.com/KishoreAnanth18)
   - [LinkedIn Account](https://www.linkedin.com/in/kishoreananth18/)
   
@@ -13,7 +12,7 @@ I'm a fresher gazing for a challenging role in a dynamic stable organisation to 
 **Achievements**
 
 - 2 ⭐'s in [Codechef](https://www.codechef.com/users/baite_114)
-- 50+ problems solved in [Leetcode](https://leetcode.com/kishoreananth718/)
+- 70+ problems solved in [Leetcode](https://leetcode.com/kishoreananth718/)
 - Truss Bridge Construction - SSN College of Engineering, Chennai - 2022 | Secured 1st place and won Rs.3500.
 - Smart India Hackathon | Qualified finalist
 - UX Design & Branding - TrusTrace - 2022 | Secured 1st place and won Rs.3000.
@@ -27,13 +26,18 @@ I'm a fresher gazing for a challenging role in a dynamic stable organisation to 
 
 **Skills**
 
-- Python, C (Intermediate)
-- Java, C++ (Basic)
+- Python, Java (Intermediate)
+- C, C++ (Basic)
 - HTML, CSS, JavaScript
-- MySQL
-- Google cloud platform, Firebase
+- React JS
+- MySQL, Oracle
+- Flask
+- Terraform
+- Amazon Web Services, Google cloud platform
 
 **Tools**
 
 - Jupyter, Google Colab
 - Android Studio, Figma, Canva
+- VS code
+- Github
